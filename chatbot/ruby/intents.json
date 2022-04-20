@@ -1,0 +1,267 @@
+{"intents": [
+  {
+    "tag": "greetings",
+    "patterns": ["hello","hey","hii","greetings","what's up?","good morning","good evening","good afternoon"],
+    "responses": ["Hello","Hey!!","What can I do for you?","Hi"]
+  },
+  {
+    "tag": "goodbye",
+    "patterns": ["see ya","bye","goodbye","I am leaving","ciao","cya"],
+    "responses": ["Goodbye!","See you later!","Have a good day!"]
+  },
+  {
+    "tag": "name",
+    "patterns": ["what is your name?","what should I call you?","tell me your name","who are you?","can you tell me your name?"],
+    "responses": ["You can call me Ruby","I am Ruby","My name is Ruby"]
+  },
+  {
+    "tag": "review",
+    "patterns": ["that's great","Nice!","Way to go!!","very good","excellent"],
+    "responses": ["thank you!!"]
+  },
+  {
+    "tag": "Academics1",
+    "patterns": ["what majors are popular?","what majors are available?","majors in your college", "which programs do you recommend"],
+    "responses": ["Popular choices are Computer Science, Electrical Engineering, Pharmacy among others..."]
+  },
+  {
+    "tag": "Academics2",
+    "patterns": ["what departments or programs have the best reputations?","best programs available"],
+    "responses": ["Both the department of technology and medical sciences have the best reputation"]
+  },
+  {
+    "tag": "Academics3",
+    "patterns": ["what's your favourite class", "which classes are good"],
+    "responses": ["Personality Development classes are my favourite as we do many fun activities"]
+  },
+  {
+    "tag": "Academics4",
+    "patterns": ["Are your professors good teachers?", "do you have good professors?", "quality of your teachers"],
+    "responses": ["Professors here have sound knowledge of their subjects", "yes we have excellent and well educated staff"]
+  },
+  {
+    "tag": "Academics5",
+    "patterns": ["are your professors friendly?", "are professors approachable?"],
+    "responses": ["Yes professors here are friendly and approachable"]
+  },
+  {
+    "tag": "Academics6",
+    "patterns": ["how much reading or writing is required in your courses?"],
+    "responses": ["Apart from college, two to three hours of  self reading should be enough"]
+  },
+  {
+    "tag": "Academics7",
+    "patterns": ["are your classes lecture-based or discussion-based?"],
+    "responses": ["Classes are both lecture-based and discussion-based"]
+  },
+  {
+    "tag": "Academics8",
+    "patterns": ["How often are collaborative work or group presentations required?"],
+    "responses": ["In every semester we have collaborative work and group projects"]
+  },
+  {
+    "tag": "Academics9",
+    "patterns": ["How satisfied are you with academic advising?"],
+    "responses": ["I am very satisfied with academic advising"]
+  },
+  {
+    "tag": "Academics10",
+    "patterns": ["How big are your classes?", "what is your class strength"],
+    "responses": ["We have class strength of 80 students"]
+  },
+  {
+    "tag": "Academics11",
+    "patterns": ["Do students use any on-campus tutoring programs or writing centers?"],
+    "responses": ["We have government funded IELTS classes for interested students"]
+  },
+  {
+    "tag": "Academics12",
+    "patterns": ["Are professors available for research with students?"],
+    "responses": ["Yes professors are available for research with students"]
+  },
+  {
+    "tag": "Academics13",
+    "patterns": ["Does your major require an independent study or personal projects?"],
+    "responses": ["It is not a compulsory requirement but is recommended for building a good profile"]
+  },
+  {
+    "tag": "Academics14",
+    "patterns": ["Is it popular to study abroad?"],
+    "responses": ["Yes it seems to be the latest trend"]
+  },
+  {
+    "tag": "Academics15",
+    "patterns": ["What courses are offered by your universtiy?","How many courses are there in your university?","total courses offered?"],
+    "responses": ["CHARUSAT offers 72 programs from UG to PhD under the 9 Institutes and 6 Faculties. They are in the allied disciplines of Technology & Engineering, Pharmacy, Computer Applications, Management Studies, Applied Sciences, Nursing, Physiotherapy, and Paramedical Sciences."]
+  },
+  {
+    "tag": "Campus1",
+    "patterns": ["What's it like to be a first-year student here?","how are freshers treated?"],
+    "responses": ["Fresher are treated really well", "First year students are well looked after"]
+  },
+  {
+    "tag": "Campus2",
+    "patterns": ["What's a typical day like?","What's a normal day like"],
+    "responses": ["A typical day includes lectures and self learning time along with sports and other activities in the evening"]
+  },
+  {
+    "tag": "Campus3",
+    "patterns": ["How much time do students spend studying per week?"],
+    "responses": ["Students have workdays from Monday to Friday","Monday to Friday from 9:10 a.m. to 4:20 p.m."]
+  },
+  {
+    "tag": "Campus4",
+    "patterns": ["What do you do when you're not in class?"],
+    "responses": ["You can use any special labs like mac lab or SOPHOS lab. You can also go to the library"]
+  },
+  {
+    "tag": "Campus5",
+    "patterns": ["What is the social scene like?","Are people here friendly?"],
+    "responses": ["People here are friendly and approachable"]
+  },
+  {
+    "tag": "Campus6",
+    "patterns": ["What do you do on the weekends?"],
+    "responses": ["On the weekends we catch a movie, play snooker and have fun"]
+  },
+  {
+    "tag": "Campus7",
+    "patterns": ["How’s the food?","How does the food taste?"],
+    "responses": ["The food here is great", "We have 5 canteens and everything from gujarati thali to fruits and ice creams"]
+  },
+  {
+    "tag": "Campus8",
+    "patterns": ["Do most students live on-campus?"],
+    "responses": ["Almost 45% of students live on-campus and other students travel daily from Ahmedabad, Vadodara and Anand"]
+  },
+  {
+    "tag": "Campus9",
+    "patterns": ["Are hostels available?","What about hostels?"],
+    "responses": ["Yes we have girls hostel with good accommodation in campus and there are multiple boys hostel outside the campus area"]
+  },
+  {
+    "tag": "Campus10",
+    "patterns": ["Which clubs and student organizations are popular?"],
+    "responses": ["We have coding club, drama club, Cyber security club among others"]
+  },
+  {
+    "tag": "Campus11",
+    "patterns": ["How are the dorms?"],
+    "responses": ["The dorms are in good condition with three students in a room"]
+  },
+  {
+    "tag": "Campus12",
+    "patterns": ["What's your favorite place on campus?"],
+    "responses": [""]
+  },
+  {
+    "tag": "Campus13",
+    "patterns": ["Where do you like to study?"],
+    "responses": [""]
+  },
+  {
+    "tag": "Campus14",
+    "patterns": ["What are the facilities like (science labs, libraries, theatres, gyms, etc.)?"],
+    "responses": ["We have a big library along with indoor games room and a gym. We also have many Super Speciality labs like COE, IOT, AR/VR Apple labs.etc"]
+  },
+  {
+    "tag": "Campus15",
+    "patterns": ["Are there enough computer labs?"],
+    "responses": ["We have sufficient computer labs in our college"]
+  },
+  {
+    "tag": "Campus16",
+    "patterns": ["How is the WiFi on campus?"],
+    "responses": ["We have good internet connectivity"]
+  },
+  {
+    "tag": "Campus17",
+    "patterns": ["Is it easy to get around campus?"],
+    "responses": ["Its very easy to get around campus"]
+  },
+  {
+    "tag": "Campus18",
+    "patterns": ["Are sports popular?"],
+    "responses": ["Yes sports like football, volleyball and cricket are popular here"]
+  },
+  {
+    "tag": "Students1",
+    "patterns": ["How would you describe your fellow students?", "Are the students here friendly?"],
+    "responses": ["All students here are good natured and friendly"]
+  },
+  {
+    "tag": "Students2",
+    "patterns": ["What makes the student body unique?"],
+    "responses": ["The student body here is elected by voting and not selected by any one person"]
+  },
+  {
+    "tag": "Students3",
+    "patterns": ["Is there diversity on campus?"],
+    "responses": ["Yes we have international students from Africa and Nepal", "Are there many students from other countries?"]
+  },
+  {
+    "tag": "Career1",
+    "patterns": ["Are internships available?"],
+    "responses": ["Yes internships are offered by many companies", "we have to apply for internships"]
+  },
+  {
+    "tag": "Career2",
+    "patterns": ["Is Career Services helpful?"],
+    "responses": ["Yes we have many mock interviews and seminars which prepare us for the real world scenarios"]
+  },
+  {
+    "tag": "Career3",
+    "patterns": ["Are there opportunities to build leadership skills on campus?"],
+    "responses": ["Yes we have many competitions which help you to hone your leadership skills"]
+  },
+  {
+    "tag": "Careers4",
+    "patterns": ["What options exist for service learning in the community?"],
+    "responses": ["We have peer learning sessions where fellow classmates give lecture on area of their expertise"]
+  },
+  {
+    "tag": "Career5",
+    "patterns": ["Do employers recruit students on campus?"],
+    "responses": ["Yes we have on campus placements"]
+  },
+  {
+    "tag": "Career6",
+    "patterns": ["How easy is it to find summer jobs and other kinds of work through your college?"],
+    "responses": ["It is fairly easy to get summer internships from our college"]
+  },
+  {
+    "tag": "Career7",
+    "patterns": ["Which companies offer placement in your college?","What about placements?","tell me about placements"],
+    "responses": ["Placements are offered by reputed companies like TCS, Meditab, Thomson Reuters, Crest Data\nSystems, Sophos, Jeavio, Tbea, Adani, Torrent Power, Nirma, Polycab, Einfochips,\nSankalp Semi Conductor, Volansys, Evosys, Vvdn, Sanmar, Bosch Rexroth, Burger\nPaints, Asian Paints, Axis Bank, ICICI Bank, Zydus Cadila, Torrent Pharma, Alembic\nPharma, Mission Pharma, Cadila Healthcare, Aalayam Rehab Center, Bajaj Alliance."]
+  },
+  {
+    "tag": "Provost",
+    "patterns": ["Who is the provost of your university?","Name of provost","what is the name of the provost of college"],
+    "responses": ["Dr R V Upadhyay is our provost"]
+  },
+  {
+    "tag": "President",
+    "patterns": ["Who is the president of your university?","Name of president","what is the name of the president of college"],
+    "responses": ["Shri Surandrabhai Patel is our president"]
+  },
+  {
+    "tag": "Sports",
+    "patterns": ["Which sports are played in your college?","Which sports are played in your university?"],
+    "responses": ["football,basketball,criket,volleyball,handball and kabaddi along with indoor sports like carrom, chess and table tennis are played"]
+  },
+  {
+    "tag": "Functions",
+    "patterns": ["Which functions are celebrated in your college or university?","which events are organized in your college or university?"],
+    "responses": ["SPOURAL [The sports and cultural event], VRUND [Raas Garba], COGNIZANCE [Tech event] are celebrated every year along with other festivals"]
+  },
+  {
+    "tag": "Fees",
+    "patterns": ["Fees structure?","what is your Fee structure","tell me about admission fees", "what about tution fees?"],
+    "responses": ["Refer this link to know about fees structure: https://www.charusat.ac.in/admission/#FeeStructure"]
+  },
+  {
+    "tag": "Scholarship",
+    "patterns": ["are scholarships offered in your college or university?","What about scholarships?","tell me about scholarships","scholarship"],
+    "responses": ["Refer this link to know about various scholarships and eligibility criteria: https://www.charusat.ac.in/admission/scholarship.html"]
+  }
+]}

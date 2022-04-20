@@ -1,0 +1,70 @@
+.navigate{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    overflow: hidden;
+    background-color: black;
+    height: 50px;
+    font-size: 30px;
+    color: red;
+}
+
+.mybox2{
+    background-color: rgb(53, 171, 240);
+    padding: 10px;
+    margin: 5% 35% 5% 35%;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px black;
+}
+
+.bot{
+    float: left;
+    display: inline-block;
+    padding: 3%;
+    margin-top: 20%;
+}
+
+.chat{
+    width: 75%;
+    font-family: "Verdana";
+    font-size: 13px;
+    font-weight: bold;
+    float: left;
+    padding: 5px;
+    margin-top: 23%;
+    background-color: white;
+}
+
+.user-chat{
+    position: fixed;
+    width: 20%;
+    font-family: "Verdana";
+    font-size: 13px;
+    font-weight: bold;
+    float: left;
+    padding: 5px;
+    margin-top: 2%;
+    margin-left: 4%;
+    background-color: white;
+}
+
+.bot2{
+    position: fixed;
+    margin-top: 2%;
+    margin-left: 25%;
+}
+
+.mybox{
+    margin-top: 100%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.ok{
+    background-color: blue;
+    font-size: 18px;
+    color: white;
+    font-family: 'Verdana';
+    padding: 5px 15px 5px 15px;
+    box-shadow: 2px 2px black;
+}
